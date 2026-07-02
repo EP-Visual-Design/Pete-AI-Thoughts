@@ -1,6 +1,6 @@
 # [Pete-AI-Thoughts](https://github.com/EP-Visual-Design/Pete-AI-Thoughts)
 
-[![EPV Team](https://jht1493.net/johnhenrythompson/ep-visual/IMG_5191-epv-team.JPG.jpeg)](https://jht1493.net/johnhenrythompson/ep-visual.html)
+[![EPV Team](https://jht1493.net/johnhenrythompson/ep-visual/IMG_5191-epv-team.JPG.jpeg)](https://jht1493.net/johnhenrythompson/ep-visual.html) [the EPV Team](https://jht1493.net/johnhenrythompson/ep-visual.html) 
 
 - [The Ownership Gap: Digital Capital and the Structure of Economic Recognition](https://philarchive.org/rec/MEYTOG-2) This book identifies and analyzes a structural condition in contemporary capital formation termed the ownership gap: the divergence between those who materially contribute to the formation of durable capital systems and those who hold residual ownership claims over the resulting assets.
 

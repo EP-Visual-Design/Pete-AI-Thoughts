@@ -1,5 +1,7 @@
 # [Pete-AI-Thoughts](https://github.com/EP-Visual-Design/Pete-AI-Thoughts)
 
+[![EPV Team](https://jht1493.net/johnhenrythompson/ep-visual/IMG_5191-epv-team.JPG.jpeg)](https://jht1493.net/johnhenrythompson/ep-visual.html)
+
 - [The Ownership Gap: Digital Capital and the Structure of Economic Recognition](https://philarchive.org/rec/MEYTOG-2) This book identifies and analyzes a structural condition in contemporary capital formation termed the ownership gap: the divergence between those who materially contribute to the formation of durable capital systems and those who hold residual ownership claims over the resulting assets.
 
 - [The Human Capital Trust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6320698) The Human Capital Trust is a nationally chartered institution, structured as a government-sponsored enterprise, capitalized through mandatory stock contributions from firms deploying AI systems that incorporate human-derived capital.

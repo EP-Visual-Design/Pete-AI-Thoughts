@@ -23,7 +23,7 @@
 - [General SSRN Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10537776)
 
 
-##
+## Foundation
 
 All proceeds support EPV Foundation, Inc., a 501(c)(3) nonprofit supporting education and research.
 
